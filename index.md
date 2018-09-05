@@ -1,5 +1,11 @@
 # Leo Simpson's first CS193 Lab
 
+- I learn about how to be successful as a CS student/ graduate
+- I get credit for it
+- Sean
+- I get to not miss any classes
+- I have labs at the same time as lectures so I don't have to adjust my schedule each week
+
 ## Welcome to GitHub Pages
 
 
@@ -20,11 +26,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-- I learn about how to be successful as a CS student/ graduate
-- I get credit for it
-- Sean
-- I get to not miss any classes
-- I have labs at the same time as lectures so I don't have to adjust my schedule each week
 
 1. Numbered
 2. List
