@@ -1,4 +1,7 @@
+# Leo Simpson's first CS193 Lab
+
 ## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,6 +20,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- I learn about how to be successful as a CS student/ graduate
+- I get credit for it
+- Sean
+- I get to not miss any classes
+- I have labs at the same time as lectures so I don't have to adjust my schedule each week
 
 1. Numbered
 2. List
